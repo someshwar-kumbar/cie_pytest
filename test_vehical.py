@@ -1,3 +1,4 @@
+import pytest
 from vehical import vehical_info
 def test_vhical_info(pid,bname,price,yop):
     output=(
