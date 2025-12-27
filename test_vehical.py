@@ -1,6 +1,6 @@
 import pytest
 from vehical import vehical_info
-def test_vhical_info(pid,bname,price,yop):
+def test_vhical_info():
     output=(
         "pid=1234\n"
         "bname=bmw\n"
