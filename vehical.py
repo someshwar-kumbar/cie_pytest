@@ -2,7 +2,7 @@ def vehical_info(pid, bname, price, yop):
     result = (
         f"pid:{pid}, "
         f"bname:{bname}, "
-        f"price:{price}, "
+        f"price:{price},"
         f"yop:{yop}"
     )
     return result
